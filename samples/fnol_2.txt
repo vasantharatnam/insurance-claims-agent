@@ -1,0 +1,19 @@
+FNOL DOCUMENT - PROPERTY CLAIM
+
+Policy Number: POL-2026-002
+Policyholder Name: Aman Sharma
+Effective Dates: 2026-01-01 to 2026-12-31
+
+Incident Date: 2026-04-20
+Incident Time: 07:45 PM
+Incident Location: Hyderabad, Telangana
+Incident Description: Water leakage damaged the kitchen ceiling and nearby furniture.
+
+Claimant: Aman Sharma
+Third Parties: None
+
+Asset Type: Property
+Asset ID: HOME-HYD-7788
+Estimated Damage: ₹42,000
+
+Claim Type: property_damage

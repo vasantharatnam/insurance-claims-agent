@@ -1,0 +1,22 @@
+FNOL DOCUMENT - PROPERTY CLAIM
+
+Policy Number: POL-2026-005
+Policyholder Name: Neha Reddy
+Effective Dates: 2026-01-01 to 2026-12-31
+
+Incident Date: 2026-04-05
+Incident Time: 03:40 PM
+Incident Location: Visakhapatnam, Andhra Pradesh
+Incident Description: A fire incident damaged the warehouse storage area and inventory. No injuries were reported.
+
+Claimant: Neha Reddy
+Third Parties: None
+Contact Details: +91-9000012345
+
+Asset Type: Warehouse
+Asset ID: WH-VZG-9087
+Estimated Damage: ₹85,000
+
+Claim Type: property_damage
+Attachments: fire_report, damage_photos, inventory_loss_report
+Initial Estimate: ₹85,000

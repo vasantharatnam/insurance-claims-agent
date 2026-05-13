@@ -1,0 +1,22 @@
+FNOL DOCUMENT - MOTOR CLAIM
+
+Policy Number: POL-2026-003
+Policyholder Name: Priya Mehta
+Effective Dates: 2026-01-01 to 2026-12-31
+
+Incident Date: 2026-03-15
+Incident Time: 11:10 PM
+Incident Location: Pune, Maharashtra
+Incident Description: The accident appears suspicious. The witness statement suggests the incident may have been staged, and some details are inconsistent.
+
+Claimant: Priya Mehta
+Third Parties: Unknown third-party vehicle
+Contact Details: +91-9123456780
+
+Asset Type: Vehicle
+Asset ID: MH12CD5678
+Estimated Damage: ₹15,000
+
+Claim Type: vehicle_damage
+Attachments: vehicle_photos, witness_statement
+Initial Estimate: ₹15,000

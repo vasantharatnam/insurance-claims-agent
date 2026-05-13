@@ -1,0 +1,22 @@
+FNOL DOCUMENT - MOTOR CLAIM
+
+Policy Number: POL-2026-001
+Policyholder Name: Ratan Kumar
+Effective Dates: 2026-01-01 to 2026-12-31
+
+Incident Date: 2026-05-10
+Incident Time: 10:30 AM
+Incident Location: Bengaluru, Karnataka
+Incident Description: The insured vehicle was involved in a minor collision near Whitefield. The front bumper was damaged, but no injuries were reported.
+
+Claimant: Ratan Kumar
+Third Parties: None
+Contact Details: +91-9876543210
+
+Asset Type: Vehicle
+Asset ID: KA01AB1234
+Estimated Damage: ₹18,000
+
+Claim Type: vehicle_damage
+Attachments: vehicle_photos, repair_estimate
+Initial Estimate: ₹18,000

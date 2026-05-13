@@ -30,5 +30,4 @@ Current stage:
 ```text
 Commit 1: Base Python project setup
 
-```text
 Commit 2: Added sample FNOL documents

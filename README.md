@@ -35,6 +35,17 @@ Run:
 ```bash
 python -m app.main samples/fnol_1.txt
 
+## Data Models
+
+The project uses Pydantic models to keep extracted claim data and final output structured.
+
+### Main Models
+
+- `ClaimFields`: Stores fields extracted from FNOL documents
+- `ValidationResult`: Stores missing fields, inconsistencies, and suspicious keywords
+- `ClaimProcessingResult`: Final assignment-compatible JSON response
+
+
 ## Project Status
 
 Current stage:
@@ -45,3 +56,7 @@ Commit 1: Base Python project setup
 Commit 2: Added sample FNOL documents
 
 Commit 3: Added document loader for TXT and PDF files
+
+Commit 4: Defined claim and output data models
+
+

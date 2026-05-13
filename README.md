@@ -23,6 +23,18 @@ This project extracts key fields from First Notice of Loss documents, identifies
 | Description contains fraud/inconsistent/staged | Investigation Flag |
 | Claim type is injury | Specialist Queue |
 
+## Loading Documents
+
+The agent supports FNOL documents in the following formats:
+
+- `.txt`
+- `.pdf`
+
+Run:
+
+```bash
+python -m app.main samples/fnol_1.txt
+
 ## Project Status
 
 Current stage:
@@ -31,3 +43,5 @@ Current stage:
 Commit 1: Base Python project setup
 
 Commit 2: Added sample FNOL documents
+
+Commit 3: Added document loader for TXT and PDF files
